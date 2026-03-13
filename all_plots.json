@@ -468,22 +468,40 @@
     "height": 2.264
   },
   {
-    "lbl": "35",
+    "lbl": "35/B",
     "st": "available",
     "sqyd": "400",
     "left": 29.594,
     "top": 67.529,
     "width": 2.988,
-    "height": 2.264
+    "height": 1.132
   },
   {
-    "lbl": "34",
+    "lbl": "35/A",
+    "st": "available",
+    "sqyd": "400",
+    "left": 29.594,
+    "top": 68.661,
+    "width": 2.988,
+    "height": 1.132
+  },
+  {
+    "lbl": "34/B",
     "st": "available",
     "sqyd": "400",
     "left": 29.594,
     "top": 69.793,
     "width": 2.988,
-    "height": 2.135
+    "height": 1.068
+  },
+  {
+    "lbl": "34/A",
+    "st": "available",
+    "sqyd": "400",
+    "left": 29.594,
+    "top": 70.861,
+    "width": 2.988,
+    "height": 1.067
   },
   {
     "lbl": "33",
@@ -765,13 +783,22 @@
     "height": 1.795
   },
   {
-    "lbl": "83",
+    "lbl": "83/A",
     "st": "available",
     "sqyd": "400",
     "left": 32.582,
     "top": 60.479,
     "width": 3.382,
-    "height": 2.329
+    "height": 1.165
+  },
+  {
+    "lbl": "83/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 32.582,
+    "top": 61.644,
+    "width": 3.382,
+    "height": 1.164
   },
   {
     "lbl": "84",
@@ -792,13 +819,22 @@
     "height": 2.264
   },
   {
-    "lbl": "86",
+    "lbl": "86/A",
     "st": "available",
     "sqyd": "400",
     "left": 32.582,
     "top": 67.529,
     "width": 3.382,
-    "height": 2.264
+    "height": 1.132
+  },
+  {
+    "lbl": "86/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 32.582,
+    "top": 68.661,
+    "width": 3.382,
+    "height": 1.132
   },
   {
     "lbl": "87/A",
@@ -806,16 +842,25 @@
     "sqyd": "400",
     "left": 32.582,
     "top": 69.793,
-    "width": 1.691,
-    "height": 1.5
+    "width": 3.382,
+    "height": 0.75
   },
   {
-    "lbl": "88/A",
+    "lbl": "87/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 32.582,
+    "top": 70.543,
+    "width": 3.382,
+    "height": 0.75
+  },
+  {
+    "lbl": "88",
     "st": "sold",
     "sqyd": "400",
     "left": 32.582,
     "top": 71.293,
-    "width": 1.691,
+    "width": 3.382,
     "height": 1.5
   },
   {
@@ -824,8 +869,17 @@
     "sqyd": "400",
     "left": 32.582,
     "top": 72.793,
-    "width": 1.691,
-    "height": 1.5
+    "width": 3.382,
+    "height": 0.75
+  },
+  {
+    "lbl": "89/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 32.582,
+    "top": 73.543,
+    "width": 3.382,
+    "height": 0.75
   },
   {
     "lbl": "90/A",
@@ -833,8 +887,17 @@
     "sqyd": "400",
     "left": 32.582,
     "top": 74.293,
-    "width": 1.691,
-    "height": 1.5
+    "width": 3.382,
+    "height": 0.75
+  },
+  {
+    "lbl": "90/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 32.582,
+    "top": 75.043,
+    "width": 3.382,
+    "height": 0.75
   },
   {
     "lbl": "91/A",
@@ -842,8 +905,17 @@
     "sqyd": "400",
     "left": 32.582,
     "top": 75.793,
-    "width": 1.691,
-    "height": 1.5
+    "width": 3.382,
+    "height": 0.75
+  },
+  {
+    "lbl": "91/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 32.582,
+    "top": 76.543,
+    "width": 3.382,
+    "height": 0.75
   },
   {
     "lbl": "92",
@@ -880,51 +952,6 @@
     "top": 55.239,
     "width": 1.691,
     "height": 1.65
-  },
-  {
-    "lbl": "87/B",
-    "st": "available",
-    "sqyd": "400",
-    "left": 34.273,
-    "top": 69.793,
-    "width": 1.691,
-    "height": 1.5
-  },
-  {
-    "lbl": "88/B",
-    "st": "available",
-    "sqyd": "400",
-    "left": 34.273,
-    "top": 71.293,
-    "width": 1.691,
-    "height": 1.5
-  },
-  {
-    "lbl": "89/B",
-    "st": "available",
-    "sqyd": "400",
-    "left": 34.273,
-    "top": 72.793,
-    "width": 1.691,
-    "height": 1.5
-  },
-  {
-    "lbl": "90/B",
-    "st": "available",
-    "sqyd": "400",
-    "left": 34.273,
-    "top": 74.293,
-    "width": 1.691,
-    "height": 1.5
-  },
-  {
-    "lbl": "91/B",
-    "st": "available",
-    "sqyd": "400",
-    "left": 34.273,
-    "top": 75.793,
-    "width": 1.691,
-    "height": 1.5
   },
   {
     "lbl": "128",
@@ -1170,13 +1197,22 @@
     "height": 1.132
   },
   {
-    "lbl": "103",
+    "lbl": "103/B",
     "st": "available",
     "sqyd": "400",
     "left": 35.964,
     "top": 69.793,
     "width": 3.439,
-    "height": 2.135
+    "height": 1.068
+  },
+  {
+    "lbl": "103/A",
+    "st": "available",
+    "sqyd": "400",
+    "left": 35.964,
+    "top": 70.861,
+    "width": 3.439,
+    "height": 1.067
   },
   {
     "lbl": "102",
@@ -1440,6 +1476,42 @@
     "height": 2.458
   },
   {
+    "lbl": "151",
+    "st": "available",
+    "sqyd": "400",
+    "left": 39.402,
+    "top": 65.265,
+    "width": 3.382,
+    "height": 2.264
+  },
+  {
+    "lbl": "152",
+    "st": "available",
+    "sqyd": "400",
+    "left": 39.402,
+    "top": 67.529,
+    "width": 3.382,
+    "height": 2.264
+  },
+  {
+    "lbl": "153/A",
+    "st": "available",
+    "sqyd": "400",
+    "left": 39.402,
+    "top": 69.793,
+    "width": 3.382,
+    "height": 1.068
+  },
+  {
+    "lbl": "153/B",
+    "st": "available",
+    "sqyd": "400",
+    "left": 39.402,
+    "top": 70.861,
+    "width": 3.382,
+    "height": 1.067
+  },
+  {
     "lbl": "193",
     "st": "available",
     "sqyd": "400",
@@ -1659,72 +1731,63 @@
     "lbl": "154",
     "st": "sold",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 70.925,
-    "width": 1.607,
+    "width": 3.382,
     "height": 2.07
   },
   {
-    "lbl": "155/A",
+    "lbl": "155",
     "st": "booked",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 73.0,
-    "width": 1.607,
-    "height": 1.035
-  },
-  {
-    "lbl": "155/B",
-    "st": "booked",
-    "sqyd": "400",
-    "left": 42.785,
-    "top": 74.035,
-    "width": 1.607,
-    "height": 1.035
+    "width": 3.382,
+    "height": 2.07
   },
   {
     "lbl": "156",
     "st": "booked",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 75.07,
-    "width": 1.607,
+    "width": 3.382,
     "height": 2.07
   },
   {
     "lbl": "157/A",
     "st": "booked",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 77.14,
-    "width": 1.607,
+    "width": 3.382,
     "height": 1.035
   },
   {
     "lbl": "157/B",
     "st": "booked",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 78.175,
-    "width": 1.607,
+    "width": 3.382,
     "height": 1.035
   },
   {
     "lbl": "158/A",
     "st": "booked",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 79.21,
-    "width": 1.607,
+    "width": 3.382,
     "height": 1.035
   },
   {
     "lbl": "158/B",
     "st": "booked",
     "sqyd": "400",
-    "left": 42.785,
+    "left": 39.402,
     "top": 80.245,
-    "width": 1.607,
+    "width": 3.382,
     "height": 1.035
   },
   {
